@@ -12,7 +12,8 @@
 <hr>
 <h2>1.목업</h2>
 카카오오븐을 이용한  기초 목업
-![오늘의날씨  Untitled](https://user-images.githubusercontent.com/100771092/223019676-9ac3b30b-b49e-402d-a4d4-5c1ee39874af.png)
+<img width="528" alt="목업)오늘의날씨" src="https://user-images.githubusercontent.com/100771092/223019902-1476ea52-eb55-4d3b-a937-0b61dfd26936.png">
+
 
 
 
