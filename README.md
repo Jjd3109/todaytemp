@@ -11,8 +11,10 @@
 
 <hr>
 <h2>1.목업</h2>
-카카오오븐을 이용한 기초 목업
-<p>![오늘의날씨  Untitled](https://user-images.githubusercontent.com/100771092/223018173-2ddbec16-a589-42b4-bc78-cc8ce4548d50.jpg)
+카카오오븐을 이용한  기초 목업
+![오늘의날씨  Untitled](https://user-images.githubusercontent.com/100771092/223019676-9ac3b30b-b49e-402d-a4d4-5c1ee39874af.png)
+
+
 
 <h2>2.코드작성</h2>
 자바 스프링부트를 이용하여 controller, vo, view 를 생성하여 코드작성.
@@ -45,6 +47,8 @@
 <img width="956" alt="카카오" src="https://user-images.githubusercontent.com/100771092/223019202-414f8568-00a3-405a-855c-eb8ffd0dcb33.png">
 
 <h2>4.수정 및 추가해야할 사항</h2>
-1.
++
++
++
 
 
